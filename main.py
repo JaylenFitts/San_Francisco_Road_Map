@@ -1,5 +1,7 @@
 #!/bin/python
-#github-rest-api made by Jaylen, with help from StackOverflow, Wikipedia and other urls which I will include later
+# github-rest-api made by Jaylen during fellowship at Uber Hidden Genius Project
+# with help from StackOverflow, RosettaCode, Wikipedia and
+# the University of Utah School of Computing's data set retrieved from SSTD 2005 (On Trip Planning Queries in Spatial Databases)
 
 import urllib.request
 import json
